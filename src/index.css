@@ -1,0 +1,160 @@
+body{
+  background-color: rgb(0, 48, 130);
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+Header{
+  
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 30px;
+
+
+  justify-content: space-between;
+  display: flex;
+   align-items: center;
+}
+
+
+nav a{
+ 
+  background-color:rgb(0, 0, 0);
+  color: rgb(185, 159, 14);
+  text-decoration: none;
+  margin-right: 65px;
+  font-weight: bolder;
+  transition: transform 1.0s ease;
+  font-size: 20px;
+
+
+}
+
+nav a:hover{
+   color:rgb(255, 255, 255);
+   text-decoration: none;
+   display:inline-block;
+   transform: scale(1.5);
+
+}
+ 
+Footer{
+  background-color:rgb(0, 0, 0);
+ 
+  text-align: center;
+  padding: 10px;
+  margin-top: 180px;
+}
+
+div{
+  padding: 5px;
+}
+nav {
+  text-align: center;
+}
+
+a{
+  text-align:center;
+  text-decoration: none;
+ font-weight: bold;
+ color:rgb(185, 159, 14);
+ transition: transform 1.0s ease;
+}
+pa,p{
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+a:hover{
+  
+  color:rgb(255, 255, 255);
+   display:inline-block;
+   transform: scale(1.2);
+}
+
+h2{
+  text-align:center;
+  background-color:rgb(185, 159, 14) ;
+  color: rgb(0, 0, 0);
+}
+header img{
+  width: 180px;
+  height: 160px;
+  border-radius: 60%;
+  gap: 16px;
+  background: transparent;
+}
+ 
+ .name-section h1 {
+  font-size: 45px;
+  margin: 0;
+  color: rgb(185, 159, 14);
+  
+ }
+ .name-section p {
+  color:rgb(185, 159, 14);
+  margin: 0;
+  font-weight:bolder ;
+  font-size: 20px;
+  
+ }
+ .logo-section{
+  display: flex;
+  align-items: center;
+justify-content: space-between;
+  
+ }
+.skill{
+  color: white;
+}
+.project-card h3{
+  background-color: white;
+  font-weight: bolder;
+}
+.butt a{
+  color: black;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+.skills {
+ margin-top: 50px;
+}
+
+.skill-container {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 20px;
+}
+
+.skill-card {
+ width: 220px;
+ height: 120px;
+ border: 1px solid rgb(185, 159, 14);
+ padding: 14px;
+ text-align: center;
+ border-radius: 10px;
+ transition: 0.3s;
+}
+
+.skill-card:hover {
+ transform: scale(1.05);
+ box-shadow: 1px 1px  30px rgb(255, 218, 7);
+}
+.skill-card h3{
+  color:rgb(185, 159, 14);
+  font-weight: bolder;
+}
+
+.homem{
+font-weight: bolder;
+font-size: 25px;
+
+}
