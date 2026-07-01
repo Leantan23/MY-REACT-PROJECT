@@ -5,6 +5,7 @@ function Contact (){
          <div>
          
 <p>*  you can contact me using beow links</p>
+
           <ul>
       <a href="mailto:natnaelenyew1@gmail.com"> * Email: NATNAELENYEW1@GMAIL.COM.com</a> <br />  <br />
 
@@ -15,12 +16,13 @@ function Contact (){
       <a href="https://t.me/leantan23">* TELEGRAM</a><br /> <br />
 
                          </ul>
-      <pa> * Location: Teppi , SouthWestern , Ethiopia</pa><br />  <br />
+                         
+      <p> * Location: Teppi , SouthWestern , Ethiopia</p><br />  <br />
 
-      <pa>
+      <p>
          * Feel free to contact me for collaboration, learning, or
         project discussions.
-      </pa> <br />  <br />
+      </p> <br />  <br />
 
 
 

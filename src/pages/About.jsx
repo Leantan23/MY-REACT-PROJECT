@@ -6,7 +6,7 @@ function About (){
           
 
       <p>
-        * &nbsp;  I am currently studying Computer Science and continuously
+          I am currently studying Computer Science and continuously
         improving my programming and problem-solving skills.
       </p>
 
@@ -20,7 +20,7 @@ function About (){
         contribute to innovative technology solutions.
       </p>
 
-        <p>* AND now I am studying in MIZAN TEPI UNIVERSIY, SCHOOL OF COMPUTING and INFORMATICS FROM COMPUTER SCIENCE DEPARTMENT and I a egor to study website development more in frontend developer. currently I am studying in 
+        <p> AND now I am studying in MIZAN TEPI UNIVERSIY, SCHOOL OF COMPUTING and INFORMATICS FROM COMPUTER SCIENCE DEPARTMENT and I a egor to study website development more in frontend developer. currently I am studying in 
          <ul>
           <li>HTML</li>
            <li>CSS</li>

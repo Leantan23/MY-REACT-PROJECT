@@ -5,14 +5,18 @@ function Header(){
       return(
         <header>
           <div className="logo-section">
-           <a> <img src={profile}/> </a> </div>
+          <img src={profile}/>
 
              <div className="name-section">
               <h1> NATNAEL ENYEW </h1>
               
-               <p>  &nbsp; &nbsp;  &nbsp; &nbsp;COMPUTER SCIENCE STUDENT |</p> 
-                                 <p>    &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; | BEGINNER WEB DEVELOPER</p> </div>
+               <p>  COMPUTER SCIENCE STUDENT |</p> 
+                                 <p>    
+                                  | BEGINNER WEB DEVELOPER</p> </div>
+                                   </div>
               
+           
+           
               <nav>
                 <Link to="/">HOME</Link>
                
