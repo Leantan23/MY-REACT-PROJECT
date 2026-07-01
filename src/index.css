@@ -175,7 +175,7 @@ h2 {
 /* ---------- About & Contact ---------- */
 p,
 li {
-  padding: 5px;
+  padding-right: 5px;
   color: white;
   font-size: 18px;
   line-height: 1.6;
