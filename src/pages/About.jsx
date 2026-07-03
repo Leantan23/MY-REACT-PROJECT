@@ -21,15 +21,35 @@ function About (){
       </p>
 
         <p>✔️ AND now I am studying in MIZAN TEPI UNIVERSIY, SCHOOL OF COMPUTING and INFORMATICS FROM COMPUTER SCIENCE DEPARTMENT and I a egor to study website development more in frontend developer. currently I am studying in 
-         <ul>
-          <li>HTML</li>
-           <li>CSS</li>
-            <li>JAVASCRIPT</li>
-             <li>PHP</li>
-              <li>REACT</li>
-               <li>NODE.JS</li>
-                <li>and less passionate in  PYTHON.</li> 
-         </ul>
+                            <ul className="tech-list">
+  <li>
+    <span className="swap">
+      <span className="front">HTML</span>
+      <span className="back">HyperText Markup Language</span>
+    </span>
+  </li>
+
+  <li>
+    <span className="swap">
+      <span className="front">CSS</span>
+      <span className="back">Cascading Style Sheets</span>
+    </span>
+  </li>
+
+  <li>
+    <span className="swap">
+      <span className="front">JavaScript</span>
+      <span className="back">Programming Language for Web</span>
+    </span>
+  </li>
+
+  <li>
+    <span className="swap">
+      <span className="front">React</span>
+      <span className="back">JavaScript Library for UI</span>
+    </span>
+  </li>
+</ul>
                                             </p>
          </div>
 

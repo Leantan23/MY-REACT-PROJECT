@@ -62,16 +62,7 @@ function Home (){
                              <p><a href="https://github.com/leantan23/foodorderingsytem">👉  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
 
                       </div>
-                       <div className="project-card">
-                             <h3>SIMPLEFOOD ORDERING SYSTEM</h3>
-                             <p><a href="https://github.com/leantan23/foodorderingsytem">🛒  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
-
-                      </div>
-                       <div className="project-card">
-                             <h3>SIMPLEFOOD ORDERING SYSTEM</h3>
-                             <p><a href="https://github.com/leantan23/foodorderingsytem">🛒  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
-
-                      </div>
+                     
 
                 </section>
 

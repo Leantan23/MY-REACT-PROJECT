@@ -16,8 +16,17 @@ function Contact (){
       <a href="https://t.me/leantan23">➤ TELEGRAM</a><br /> <br />
 
                          </ul>
-
-      <p> 🏠︎ Location: Teppi , SouthWestern , Ethiopia</p><br />  <br />
+<div>
+      <p> 🏠︎ Location: Teppi , SouthWestern , Ethiopia</p> <iframe
+        src="https://maps.app.goo.gl/ad4tCDewNiRiemeV8"
+        width="100%"
+        height="300"
+        style={{ border: 0 }}
+        allowFullScreen=""
+        loading="lazy"
+        referrerPolicy="no-referrer-when-downgrade"
+      ></iframe> </div>
+      <br />  
 
       <p>
          👍 Feel free to contact me for collaboration, learning, or

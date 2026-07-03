@@ -1,21 +1,23 @@
-/* ---------- Body ---------- */
+/* ---------- GLOBAL ---------- */
 body {
   margin: 0;
   padding: 0;
-  font-family: "Courier New", Courier, monospace;
-  background-color: rgb(0, 48, 130);
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  background-color: #0f172a;
+  color: #ffffff;
   overflow-x: hidden;
 }
 
-/* ---------- Header ---------- */
+/* ---------- HEADER ---------- */
 header {
-  background: black;
+  background: #111827;
   color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 20px 40px;
   flex-wrap: wrap;
+  border-bottom: 2px solid #fbbf24;
 }
 
 .logo-section {
@@ -25,44 +27,44 @@ header {
 }
 
 header img {
-  width: 160px;
-  height: 160px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
+  border: 3px solid #fbbf24;
 }
 
 .name-section h1 {
   margin: 0;
-  color: rgb(185, 159, 14);
-  font-size: 40px;
+  color: #fbbf24;
+  font-size: 36px;
 }
 
 .name-section p {
   margin: 5px 0;
-  color: rgb(185, 159, 14);
-  font-size: 18px;
-  font-weight: bold;
+  color: #94a3b8;
+  font-size: 16px;
 }
 
-/* ---------- Navigation ---------- */
+/* ---------- NAV ---------- */
 nav {
   display: flex;
-  gap: 30px;
+  gap: 25px;
 }
 
 nav a {
   text-decoration: none;
-  color: rgb(185, 159, 14);
+  color: #fbbf24;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 16px;
   transition: 0.3s;
 }
 
 nav a:hover {
   color: white;
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
-/* ---------- General ---------- */
+/* ---------- MAIN ---------- */
 .home {
   width: 90%;
   max-width: 1200px;
@@ -76,40 +78,41 @@ nav a:hover {
 }
 
 .homem {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: bold;
+  color: #fbbf24;
 }
 
 .hero p {
-  color: white;
+  color: #94a3b8;
   font-size: 18px;
   line-height: 1.6;
 }
 
+/* ---------- HEADINGS ---------- */
 h2 {
-  background: rgb(185, 159, 14);
-  color: black;
   text-align: center;
-  padding: 10px;
+  color: #fbbf24;
+  margin-top: 40px;
 }
 
-/* ---------- Button ---------- */
+/* ---------- BUTTON ---------- */
 .butt {
-  background: rgb(185, 159, 14);
+  background: #fbbf24;
   border: none;
   padding: 12px 25px;
   border-radius: 8px;
   cursor: pointer;
   margin-top: 20px;
+  font-weight: bold;
 }
 
 .butt a {
   color: black;
   text-decoration: none;
-  font-weight: bold;
 }
 
-/* ---------- Skills ---------- */
+/* ---------- SKILLS ---------- */
 .skills {
   margin-top: 50px;
 }
@@ -124,165 +127,148 @@ h2 {
 .skill-card {
   width: 220px;
   min-height: 150px;
-  border: 2px solid rgb(185, 159, 14);
+  background: #111827;
+  border: 1px solid #fbbf24;
   border-radius: 10px;
   padding: 15px;
   text-align: center;
-  transition: .3s;
-}
-
-.skill-card h3 {
-  color: rgb(185, 159, 14);
-}
-
-.skill-card p {
-  color: white;
+  transition: 0.3s;
 }
 
 .skill-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 0 20px rgb(255, 218, 7);
+  box-shadow: 0 0 15px #fbbf24;
 }
 
-/* ---------- Projects ---------- */
+.skill-card h3 {
+  color: #fbbf24;
+}
+
+.skill-card p {
+  color: #94a3b8;
+}
+
+/* ---------- PROJECTS ---------- */
 .projects {
   margin-top: 60px;
 }
 
 .project-card {
-  border: 2px solid rgb(185, 159, 14);
+  background: #111827;
+  border: 1px solid #fbbf24;
   border-radius: 10px;
   padding: 20px;
   margin: 20px 0;
 }
 
 .project-card h3 {
-  background: white;
-  color: black;
-  padding: 10px;
+  color: #fbbf24;
 }
 
 .project-card a {
-  color: rgb(185, 159, 14);
+  color: #94a3b8;
   text-decoration: none;
   word-break: break-word;
 }
 
 .project-card a:hover {
-  color: white;
+  color: #fbbf24;
 }
 
-/* ---------- About & Contact ---------- */
+/* ---------- TEXT ---------- */
 p,
 li {
-  
-  padding-left: 5px;
-  color: white;
+  color: #94a3b8;
   font-size: 18px;
   line-height: 1.6;
 }
 
 ul {
-  
   padding-left: 25px;
 }
 
+/* ---------- LINKS ---------- */
 a {
+  color: #fbbf24;
   text-decoration: none;
-  color: rgb(185, 159, 14);
 }
 
 a:hover {
   color: white;
 }
 
-/* ---------- Footer ---------- */
+/* ---------- FOOTER ---------- */
 footer {
-  background: black;
+  background: #111827;
   color: white;
   text-align: center;
   padding: 20px;
   margin-top: 80px;
+  border-top: 2px solid #fbbf24;
 }
 
 footer a {
-  color: rgb(185, 159, 14);
-  text-decoration: none;
+  color: #fbbf24;
 }
 
-/* ---------- Tablet ---------- */
-@media (max-width:992px){
-
-header{
-    flex-direction:column;
-    text-align:center;
+/* ---------- SWAP EFFECT ---------- */
+.swap {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  color: #fbbf24;
 }
 
-.logo-section{
-    flex-direction:column;
+.front {
+  display: inline-block;
 }
 
-nav{
-    margin-top:20px;
+.back {
+  display: none;
 }
 
-.name-section h1{
-    font-size:32px;
+.swap:hover .front {
+  display: none;
 }
 
-.skill-card{
-    width:45%;
+.swap:hover .back {
+  display: inline-block;
+  color: #ffffff;
 }
 
+/* ---------- RESPONSIVE ---------- */
+@media (max-width: 992px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  nav {
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .skill-card {
+    width: 45%;
+  }
 }
 
-/* ---------- Mobile ---------- */
-@media (max-width:768px){
+@media (max-width: 768px) {
+  header img {
+    width: 110px;
+    height: 110px;
+  }
 
-header{
-    padding:20px;
-}
+  .name-section h1 {
+    font-size: 28px;
+  }
 
-header img{
-    width:120px;
-    height:120px;
-}
+  .hero p {
+    font-size: 16px;
+  }
 
-.name-section h1{
-    font-size:28px;
-}
-
-.name-section p{
-    font-size:16px;
-}
-
-nav{
-    flex-direction:column;
-    gap:15px;
-}
-
-.hero{
-    padding:20px 10px;
-}
-
-.hero p{
-    font-size:16px;
-}
-
-.homem{
-    font-size:22px;
-}
-
-.skill-card{
-    width:100%;
-}
-
-.project-card{
-    padding:15px;
-}
-
-footer{
-    font-size:14px;
-}
-
+  .skill-card {
+    width: 100%;
+  }
 }
