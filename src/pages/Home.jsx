@@ -54,12 +54,12 @@ function Home (){
                 <section className="projects">
                   <h2>FEATURED PROJECTS</h2>
                        <div className="project-card">
-                             <h3>PORTIFOLIO WEBSITE</h3>
-                             <p>   <a  href="https://github.com/leantan23/Rportifolio">👨🏻‍💼  portifolio using REACT + VITE. </a></p> 
+                             <h3>👨🏻‍💼 PORTIFOLIO WEBSITE</h3>
+                             <p>   <a  href="https://github.com/leantan23/Rportifolio"> 👉 portifolio using REACT + VITE. </a></p> 
                       </div>
                       <div className="project-card">
-                             <h3>SIMPLEFOOD ORDERING SYSTEM</h3>
-                             <p><a href="https://github.com/leantan23/foodorderingsytem">🛒  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
+                             <h3> 🛒 SIMPLEFOOD ORDERING SYSTEM</h3>
+                             <p><a href="https://github.com/leantan23/foodorderingsytem">👉  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
 
                       </div>
                        <div className="project-card">
