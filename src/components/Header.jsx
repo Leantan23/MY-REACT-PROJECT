@@ -10,20 +10,20 @@ function Header(){
              <div className="name-section">
               <h1> NATNAEL ENYEW </h1>
               
-               <p>  COMPUTER SCIENCE STUDENT |</p> 
+               <p>  COMPUTER SCIENCE STUDENT 👨🏽‍💻</p> 
                                  <p>    
-                                  | BEGINNER WEB DEVELOPER</p> </div>
+                                  ✍️ BEGINNER WEB DEVELOPER</p> </div>
                                    </div>
               
            
            
               <nav>
-                <Link to="/">HOME</Link>
+                <Link to="/">🏡 HOME</Link>
                
                 
-                 <Link to="/about">ABOUT</Link>
+                 <Link to="/about"> 🧍‍♂️ ABOUT  ME</Link>
      
-                 <Link to="/contact">CONTACT</Link>      
+                 <Link to="/contact">📲 CONTACT</Link>      
                  
               </nav>
         </header>

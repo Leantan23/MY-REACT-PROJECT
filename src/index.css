@@ -175,6 +175,7 @@ h2 {
 /* ---------- About & Contact ---------- */
 p,
 li {
+  
   padding-left: 5px;
   color: white;
   font-size: 18px;
@@ -182,6 +183,7 @@ li {
 }
 
 ul {
+  
   padding-left: 25px;
 }
 

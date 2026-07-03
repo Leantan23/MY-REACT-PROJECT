@@ -6,17 +6,17 @@ function Home (){
             <section className="hero">
               <div className="homem">
                
-            <p> HELLO, I'M NATNAEL ENYEW </p>  </div>
-              <p> * Computer Science  Student and Beginner Web develper</p>
-                 <p>* I  enjoy building websites,solving problems , and learning new technologies
+            <p> ✋HELLO,  I'M NATNAEL ENYEW </p>  </div>
+              <p> 👨🏽‍💻 Computer Science  Student and Beginner Web develper</p>
+                 <p>🤩 I  enjoy building websites,solving problems , and learning new technologies
                 
                 </p>  
 
-               < button  className="butt"> <a  href="https://github.com/leantan23">VIEW MY PROJECT </a></button>   
+               < button  className="butt"> <a  href="https://github.com/leantan23">👁️ VIEW MY PROJECT 👁️</a></button>   
                        
             </section>
   <section className="skills">
-<h2>My Skills</h2>
+<h2>✍🏻 My Skills</h2>
 
  <div className="skill-container">
 
@@ -55,11 +55,21 @@ function Home (){
                   <h2>FEATURED PROJECTS</h2>
                        <div className="project-card">
                              <h3>PORTIFOLIO WEBSITE</h3>
-                             <p>   <a  href="https://github.com/leantan23/Rportifolio">*   portifolio using REACT + VITE. </a></p> 
+                             <p>   <a  href="https://github.com/leantan23/Rportifolio">👨🏻‍💼  portifolio using REACT + VITE. </a></p> 
                       </div>
                       <div className="project-card">
                              <h3>SIMPLEFOOD ORDERING SYSTEM</h3>
-                             <p><a href="https://github.com/leantan23/foodorderingsytem">*  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
+                             <p><a href="https://github.com/leantan23/foodorderingsytem">🛒  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
+
+                      </div>
+                       <div className="project-card">
+                             <h3>SIMPLEFOOD ORDERING SYSTEM</h3>
+                             <p><a href="https://github.com/leantan23/foodorderingsytem">🛒  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
+
+                      </div>
+                       <div className="project-card">
+                             <h3>SIMPLEFOOD ORDERING SYSTEM</h3>
+                             <p><a href="https://github.com/leantan23/foodorderingsytem">🛒  web based food ordering system using HTML ,CSS,JAVASCRIPT AND PHP.</a></p> 
 
                       </div>
 
