@@ -18,7 +18,7 @@ function Contact (){
                          </ul>
 <div>
       <p> 🏠︎ Location: Teppi , SouthWestern , Ethiopia</p> <iframe
-        src="https://maps.app.goo.gl/ad4tCDewNiRiemeV8"
+   src="https://www.google.com/maps?q=Tepi,Ethiopia&output=embed"
         width="100%"
         height="300"
         style={{ border: 0 }}
