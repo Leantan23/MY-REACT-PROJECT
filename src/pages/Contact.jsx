@@ -18,7 +18,7 @@ function Contact (){
                          </ul>
 <div>
       <p> 🏠︎ Location: Teppi , SouthWestern , Ethiopia</p> <iframe
-   src="https://www.google.com/maps?q=Tepi,Ethiopia&output=embed"
+   src="https://www.google.com/maps?q=mikael Church Teppi,+Teppi,+SouthWestern,+Ethiopia&output=embed"
         width="100%"
         height="300"
         style={{ border: 0 }}
